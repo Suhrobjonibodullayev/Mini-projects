@@ -55,6 +55,7 @@ Each project contains its own:
 - Python
 - NumPy
 - Pandas
+- Plotly
 - Matplotlib
 - Scikit-learn
 - TensorFlow
